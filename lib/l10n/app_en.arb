@@ -1,0 +1,50 @@
+{
+"@welcome" : {
+"welcome" : "Welcome to Samadian Blood Bank"
+},
+"@begin" : {
+"begin" : "Time left for the next prayer"
+
+},
+"@donate" : {
+"donate" : "Donated"
+
+},
+"@motto" : {
+"motto" : "Be a saviour just donating your blood"
+
+},
+"@logIn" : {
+"logIn" : "Log In "
+
+},
+"@email" : {
+"email" : "Email"
+
+},
+"@password" : {
+"password" : "Password"
+
+},
+"@oldUser" : {
+"motto" : "Already Have an Account!"
+
+},
+"@signUp" : {
+"signUp" : "Sign Up"
+
+},
+
+
+"begin" : "Let's Begin",
+"donate" : "Donated",
+"motto" : "Be a saviour just donating your blood",
+"welcome" : "Welcome to Samadian Blood Bank",
+"logIn" : "Login",
+"email" : "Email",
+"password" : "Password",
+"oldUser" : "Already Have an Account!",
+"signUp" : "Sign Up"
+
+
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962310696311",
+    "project_id": "blood-bank-2465e",
+    "storage_bucket": "blood-bank-2465e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962310696311:android:4cc19caa826139965e0572",
+        "android_client_info": {
+          "package_name": "com.samad.blood.bank.app.samad_blood_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzswp585NKnGa8H90bxs1bRl9A-6sU5aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
